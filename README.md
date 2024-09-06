@@ -4,19 +4,29 @@
 <h2>EDUCATION</h2> 
 <b>Harvard University</b>
 <u>Master of Science / Ph.D. in Electrical Engineering</u>   | August 2022–December 2024 (M.S.), May 2027 (Ph.D)</br>
- <i>Relevant Coursework: </i>Advanced Scientific Computing; Semidefinite Optimization and Relaxation; Quantitative Investment
+ <i>Relevant Coursework:  </i>Advanced Scientific Computing; Semidefinite Optimization and Relaxation; Quantitative Investment
 Management (audited at MIT), Introduction to Data Science.</br>
- <i>Awards: </i>National Science Foundation Graduate Research Fellowship, Harvard Graduate Prize Fellowship
+ <i>Awards:  </i>National Science Foundation Graduate Research Fellowship, Harvard Graduate Prize Fellowship
  </br>
  </br>
  
  <b>University of Nevada, Reno</b>
 <u>Master of Science in Mechanical Engineering</u>   | August 2020–August 2022</br>
- <i>Relevant Coursework: </i>Digital Control Engineering, Linear Systems, Machine Intelligence</br>
- <i>Awards: </i> Graduate Dean’s Merit Scholarship, NASA Space Technology Graduate Research Fellowship</br>
- <i>Cumulative GPA: </i> 4.000/4.000
+ <i>Relevant Coursework:  </i>Digital Control Engineering, Linear Systems, Machine Intelligence</br>
+ <i>Awards:  </i> Graduate Dean’s Merit Scholarship, NASA Space Technology Graduate Research Fellowship</br>
+ <i>Cumulative GPA:  </i> 4.000/4.000
  
-
+  </br>
+ </br>
+ <b>University of Nevada, Reno</b>
+<u>Bachelor of Science in Mechanical Engineering</u>   |  July 2016–May 2020 </br>
+ <i>Cumulative GPA:  </i> Cumulative GPA: 3.834/4.000
+<h2>WORK EXPERIENCE</h2>
+<h2>State Street Corporation, Cambridge, MA</h2>
+<h3>Quantitative Research Intern, July 2024–Present</h3>
+- Statistical analysis of historic returns of private equity deals using Python (numpy and pandas).
+- Cleaning and filtering large proprietary datasets in SQL Oracle containing sensitive client information.
+- Communicating research with data visualizations (using matplotlib and seaborn) to academic partners
 
 
 
