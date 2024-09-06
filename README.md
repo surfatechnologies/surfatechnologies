@@ -40,6 +40,14 @@ Management (audited at MIT), Introduction to Data Science.</br>
 <li>Used Matlab to mathematically model twisted string actuators and their applications in humanoid robots.</li>
 <li>Constructed physical robot gripper research prototype; presented research findings to NASA researchers.</li>
 </ul>
+<h3>Smart Robotics Lab (University of Nevada, Reno), Reno, NV</h3>
+<h4>Undergraduate/Graduate Research Assistant, November 2018–May 2022</h4>
+<ul>
+<li>Engineered data-driven mathematical model for twisted string actuators, using the Optimization Toolbox and Curve Fitting</li>
+<li>Toolbox in Matlab and Simulink. Earned 2021 Best Paper Award (top &lt; 1% in 2021).</li>
+<li>Developed inverse modeling algorithm and Matlab-based software package for actuators.</li>
+<li>Developed custom mechatronic systems with C++ and arduino and motor control libraries.</li>
+</ul>
 
 
 
