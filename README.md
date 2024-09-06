@@ -8,6 +8,7 @@
 Management (audited at MIT), Introduction to Data Science.</br>
  <i>Awards: </i>National Science Foundation Graduate Research Fellowship, Harvard Graduate Prize Fellowship
  </br>
+ </br>
  
  <b>University of Nevada, Reno</b>
 <u>Master of Science in Mechanical Engineering</u>   | August 2020–August 2022</br>
