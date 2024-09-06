@@ -22,8 +22,8 @@ Management (audited at MIT), Introduction to Data Science.</br>
 <u>Bachelor of Science in Mechanical Engineering</u>   |  July 2016–May 2020 </br>
  <i>Cumulative GPA:  </i> Cumulative GPA: 3.834/4.000
 <h2>WORK EXPERIENCE</h2>
-<h2>State Street Corporation, Cambridge, MA</h2>
-<h3>Quantitative Research Intern, July 2024–Present</h3>
+###State Street Corporation, Cambridge, MA
+####Quantitative Research Intern, July 2024–Present
 - Statistical analysis of historic returns of private equity deals using Python (numpy and pandas).
 - Cleaning and filtering large proprietary datasets in SQL Oracle containing sensitive client information.
 - Communicating research with data visualizations (using matplotlib and seaborn) to academic partners
