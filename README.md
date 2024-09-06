@@ -15,18 +15,32 @@ Management (audited at MIT), Introduction to Data Science.</br>
  <i>Relevant Coursework:  </i>Digital Control Engineering, Linear Systems, Machine Intelligence</br>
  <i>Awards:  </i> Graduate Dean’s Merit Scholarship, NASA Space Technology Graduate Research Fellowship</br>
  <i>Cumulative GPA:  </i> 4.000/4.000
- 
   </br>
  </br>
  <b>University of Nevada, Reno</b>
 <u>Bachelor of Science in Mechanical Engineering</u>   |  July 2016–May 2020 </br>
  <i>Cumulative GPA:  </i> Cumulative GPA: 3.834/4.000
 <h2>WORK EXPERIENCE</h2>
-###State Street Corporation, Cambridge, MA
-####Quantitative Research Intern, July 2024–Present
+<h3> State Street Corporation, Cambridge, MA </h3>
+<h4>Quantitative Research Intern, July 2024–Present</h4>
 - Statistical analysis of historic returns of private equity deals using Python (numpy and pandas).
 - Cleaning and filtering large proprietary datasets in SQL Oracle containing sensitive client information.
-- Communicating research with data visualizations (using matplotlib and seaborn) to academic partners
+- Communicating research with data visualizations (using matplotlib and seaborn) to academic partners.
+<h3>Harvard School of Engineering & Applied Sciences, Boston, MA</h3>
+<h4>Graduate Research Assistant / Teaching Fellow, August 2022–Present</h4>
+<ul>
+<li> Implemented online machine learning algorithm for conformal prediction that adapts to distribution shifts for ICML 2024 (preprint) in Python (scipy, pytorch, and online conformal libraries).</li>
+<li>Trained reinforcement learning algorithms using Python-based gymnasium, stable-baselines3, and jax libraries.</li>
+<li>Used Git and Linux command line interface for controlling physical robots; execute physical actions with C++ and Python.</li>
+<li>Developed solution sets for scientific computing homework problems in Python (numpy and scipy libraries).</li>
+</ul>
+<h3>NASA Johnson Space Center,Houston, TX</h3>
+<h4>Visiting Researcher, May 2022–August 2022</h4>
+<ul>
+<li>Used Matlab to mathematically model twisted string actuators and their applications in humanoid robots.</li>
+<li>Constructed physical robot gripper research prototype; presented research findings to NASA researchers.</li>
+</ul>
+
 
 
 
