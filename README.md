@@ -158,6 +158,161 @@ Control Toolbox, Image Processing Toolbox, and Control Systems Toolbox; publishe
             <td>14</td>
             <td>2019</td>
         </tr>
+        <tr>
+            <td>
+                <a target="_blank" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:YsMSGLbcyi4C">A twisted string actuator-driven soft robotic manipulator</a>
+            </br>
+            <span>
+                D Bombara, R Coulter, R Konda, J Zhang</br>
+IFAC-PapersOnLine 54 (20), 141-146
+            </span>
+            </td>
+            <td>11</td>
+            <td>2021</td>
+        </tr>
+        <tr>
+            <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:u5HHmVD_uO8C">Physics-based kinematic modeling of a twisted string actuator-driven soft robotic manipulator</a>
+            </br>
+            <span>D Bombara, R Konda, E Chow, J Zhang</br>
+                2022 American Control Conference (ACC), 4365-4370</span>
+            </td>
+            <td>8</td>
+            <td>2022</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:hqOjcs7Dif8C">Kinematic modeling and open-loop control of a twisted string actuator-driven soft robotic manipulator</a>
+            </br>
+            <span>
+                R Konda, D Bombara, E Chow, J Zhang</br>
+Journal of Mechanisms and Robotics 16 (4), 041007
+            </span>
+            </td>
+            <td>7</td>
+            <td>2024</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:7PzlFSSx8tAC">Discounted adaptive online prediction</a>
+            </br>
+            <span>Z Zhang, D Bombara, H Yang</br>
+                arXiv preprint arXiv:2402.02720</span>
+            </td>
+            <td>6</td>
+            <td>2024</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:zYLM7Y9cAGgC">Compliant and large-strain twisted string actuators using supercoiled polymers</a>
+            </br>
+            <span>J Zhang, D Bombara, S Fowzer, C Brennan</br>
+                2020 3rd IEEE International Conference on Soft Robotics (RoboSoft), 201-207</span>
+            </td>
+            <td>6</td>
+            <td>2020</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:9ZlFYXVOiuMC">Versatile spaceborne photonics with chalcogenide phase-change materials</a>
+            </br>
+            <span>HJ Kim, M Julian, C Williams, D Bombara, J Hu, T Gu, K Aryana, G Sauti, ...</br>
+                npj Microgravity 10 (1), 20</span>
+            </td>
+            <td>4</td>
+            <td>2024</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:UebtZRa9Y70C">P-Active Project Report</a>
+            </br>
+            <span>HJ Kim, S Borg, S Bartram, K Aryana, W Humphreys, J Hu, T Gu, S An, ...</span>
+            </td>
+            <td>3</td>
+            <td>2023</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:_FxGoFyzp5QC">Inverse Modeling for Component Selection of Twisted String Actuators</a>
+            </br>
+           <span>
+            D Bombara, R Konda, Z Kibria, J Zhang</br>
+IEEE/ASME Transactions on Mechatronics
+           </span>
+            </td>
+            <td>3</td>
+            <td>2022</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:Y0pCki6q_DkC">Parameter Estimation and Adaptive Control of Twisted String Actuators</a>
+            </br>
+            <span>R Konda, D Bombara, J Zhang</span>
+            </td>
+            <td>2</td>
+            <td>2022</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:Tyk-4Ss8FVUC">Automated real-time spectral characterization of phase-change tunable optical filters using a linear variable filter and infrared camera</a>
+            </br>
+            <span>D Bombara, C Williams, S Borg, HJ Kim</br>
+                arXiv preprint arXiv:2102.11028</span>
+            </td>
+            <td>2</td>
+            <td>2021</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:QIV2ME_5wuYC">Transformable Linkage-Based Gripper for Multi-Mode Grasping and Manipulation</a>
+            </br>
+            <span>J Kwon, Junghan and Bombara, David and Teeple, Clark and Lee, Joonhaeng and ...</br>
+                IEEE Robotics and Automation Letters</span>
+            </td>
+            <td>1</td>
+            <td>2021</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:W7OEmFMy1HYC">Automated real-time spectral characterization of phase-change tunable filters using a linear variable filter and IR camera for wide-field MWIR imaging</a>
+            </br>
+            <span>D Bombara, C Williams, S Borg, HJ Kim</br>
+                Optical Engineering 60 (8), 084105-084105</span>
+            </td>
+            <td>1</td>
+            <td>2021</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:qUcmZB5y_30C">Model-based Performance Analysis of Twisted String Actuators with Comparison to Spooled Motor Tendon-driven Actuators</a>
+            </br>
+            <span>T Tsabedze, R Konda, D Bombara, J Zhang</br>
+                IEEE Robotics and Automation Letters</span>
+            </td>
+            <td></td>
+            <td>2024</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:IWHjjKOFINEC">Discounted Adaptive Online Learning: Towards Better Regularization</a>
+            </br>
+            <span>
+                Z Zhang, D Bombara, H Yang</br>
+Forty-first International Conference on Machine Learning
+            </span>
+            </td>
+            <td></td>
+            <td>2024</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:2osOgNQ5qMEC">Active tunable MWIR filters: phase-change tunable filters for MWIR imaging based on GeSbTe-integrated metasurfaces</a>
+            </br>
+            <span>HJ Kim, M Julian, C Williams, S Borg, D Bombara, W Humphreys</br>
+                Image Sensing Technologies: Materials, Devices, Systems, and Applications …</span>
+            </td>
+            <td></td>
+            <td>2021</td>
+        </tr>
     </tbody>
 </table>
 
