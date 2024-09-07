@@ -112,26 +112,60 @@ Control Toolbox, Image Processing Toolbox, and Control Systems Toolbox; publishe
 </tr>
 </tbody>
 </table>
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Cited By</th>
+            <th>Year</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a target="_blank" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:eQOLeE2rZwMC">Compliant, large-strain, and self-sensing twisted string actuators</a></br>
+            <span>D Bombara, S Fowzer, J Zhang</br>
+                Soft Robotics 9 (1), 72-88</span>
+            </td>
+            <td>43</td>
+            <td>2022</td>
+        </tr>
 
-| Title                                                                                                                                                      | Cited by | Year |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------|
-| [A twisted string actuator-driven soft robotic manipulator](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16521562623590009647)                    | 11       | 2021 |
-| [Active tunable MWIR filters: phase-change tunable filters for MWIR imaging based on GeSbTe-integrated metasurfaces](#)                                      |          | 2021 |
-| [Anthropomorphic twisted string-actuated soft robotic gripper with tendon-based stiffening](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13138099357058979524) | 28       | 2022 |
-| [Automated real-time spectral characterization of phase-change tunable filters using a linear variable filter and IR camera for wide-field MWIR imaging](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14213274260780098595) | 1        | 2021 |
-| [Automated real-time spectral characterization of phase-change tunable optical filters using a linear variable filter and infrared camera](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12866409201305674899) | 2        | 2021 |
-| [Compliant and large-strain twisted string actuators using supercoiled polymers](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12448622018739577458) | 6        | 2020 |
-| [Compliant, large-strain, and self-sensing twisted string actuators](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17760326590759432998)           | 43       | 2022 |
-| [Discounted Adaptive Online Learning: Towards Better Regularization](#)                                                                                     |          | 2024 |
-| [Discounted adaptive online prediction](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16897617017775944419)                                         | 6        | 2024 |
-| [Experimental characterization and modeling of the self-sensing property in compliant twisted string actuators](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7927783739197093013) | 16       | 2021 |
-| [Inverse Modeling for Component Selection of Twisted String Actuators](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15989530055619093299)         | 3        | 2022 |
-| [Kinematic modeling and open-loop control of a twisted string actuator-driven soft robotic manipulator](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16161197507133859467) | 7        | 2024 |
-| [Model-based Performance Analysis of Twisted String Actuators with Comparison to Spooled Motor Tendon-driven Actuators](#)                                   |          | 2024 |
-| [P-Active Project Report](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=495432938811946845)                                                         | 3        | 2023 |
-| [Parameter Estimation and Adaptive Control of Twisted String Actuators](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=38796384219676719)           | 2        | 2022 |
-| [Physics-based kinematic modeling of a twisted string actuator-driven soft robotic manipulator](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1727542852165985882) | 8        | 2022 |
-| [Self-sensing for twisted string actuators using conductive supercoiled polymers](#)                                                                        |          | 2023 |
+        <tr>
+            <td><a target="_blank" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:LkGwnXOMwfcC">Anthropomorphic twisted string-actuated soft robotic gripper with tendon-based stiffening</a>
+            </br>
+            <span>R Konda, D Bombara, S Swanbeck, J Zhang</br>
+                IEEE Transactions on Robotics 39 (2), 1178-1195</span>
+            </td>
+
+            <td>28</td>
+            <td>2022</td>
+        </tr>
+
+        <tr>
+            <td>
+                <a target="_blank" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:UeHWp8X0CEIC">Experimental characterization and modeling of the self-sensing property in compliant twisted string actuators</a>
+            </br>
+            <span>D Bombara, R Konda, J Zhang</br>
+                IEEE Robotics and Automation Letters 6 (2), 974-981</span>
+            </td>
+
+            <td>16</td>
+            <td>2021</td>
+        </tr>
+
+        <tr>
+            <td>
+                <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:9yKSN-GCB0IC" target="_blank">Self-sensing for twisted string actuators using conductive supercoiled polymers</a>
+            </br>
+            <span>D Bombara, V Mansurov, R Konda, S Fowzer, J Zhang </br>
+                Smart materials, adaptive structures and intelligent systems 59131, V001T04A009</span>
+            </td>
+
+            <td>14</td>
+            <td>2019</td>
+        </tr>
+    </tbody>
+</table>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qadir-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="qadir-hassan" /> </p>
