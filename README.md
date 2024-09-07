@@ -48,9 +48,18 @@ Management (audited at MIT), Introduction to Data Science.</br>
 <li>Developed inverse modeling algorithm and Matlab-based software package for actuators.</li>
 <li>Developed custom mechatronic systems with C++ and arduino and motor control libraries.</li>
 </ul>
-
-
-
+<h3>NASA Langley Research Center, Hampton, VA (Virtual</h3>
+<h4>Intern, Advanced Measurements and Data Systems Branch, June 2020–May 2021</h4>
+<ul>
+<li>Engineered a software package to study phase-changing tunable optical filters using Matlab’s App Designer, Instrument
+Control Toolbox, Image Processing Toolbox, and Control Systems Toolbox; published findings in Optical Engineering.</li>
+<li>Earned Exceptional Contribution Award from the Advanced Measurements and Data System’s Branch</li>
+</ul>
+<h3>NASA Ames Research Center, Mountain View, CA</h3>
+<h4>Intern, Flight Vehicle Research & Technology Division, June–August 2019</h4>
+<ul>
+<li>Engineering robot sensor communication system using Matlab’s Bluetooth Toolbox and Image Processing Toolbox.</li>
+</ul>
 
 
 
