@@ -129,18 +129,15 @@ Control Toolbox, Image Processing Toolbox, and Control Systems Toolbox; publishe
             <td>43</td>
             <td>2022</td>
         </tr>
-
         <tr>
             <td><a target="_blank" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:LkGwnXOMwfcC">Anthropomorphic twisted string-actuated soft robotic gripper with tendon-based stiffening</a>
             </br>
             <span>R Konda, D Bombara, S Swanbeck, J Zhang</br>
                 IEEE Transactions on Robotics 39 (2), 1178-1195</span>
             </td>
-
             <td>28</td>
             <td>2022</td>
         </tr>
-
         <tr>
             <td>
                 <a target="_blank" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:UeHWp8X0CEIC">Experimental characterization and modeling of the self-sensing property in compliant twisted string actuators</a>
@@ -148,11 +145,9 @@ Control Toolbox, Image Processing Toolbox, and Control Systems Toolbox; publishe
             <span>D Bombara, R Konda, J Zhang</br>
                 IEEE Robotics and Automation Letters 6 (2), 974-981</span>
             </td>
-
             <td>16</td>
             <td>2021</td>
         </tr>
-
         <tr>
             <td>
                 <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=81Yx5YMAAAAJ&citation_for_view=81Yx5YMAAAAJ:9yKSN-GCB0IC" target="_blank">Self-sensing for twisted string actuators using conductive supercoiled polymers</a>
@@ -160,13 +155,11 @@ Control Toolbox, Image Processing Toolbox, and Control Systems Toolbox; publishe
             <span>D Bombara, V Mansurov, R Konda, S Fowzer, J Zhang </br>
                 Smart materials, adaptive structures and intelligent systems 59131, V001T04A009</span>
             </td>
-
             <td>14</td>
             <td>2019</td>
         </tr>
     </tbody>
 </table>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qadir-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="qadir-hassan" /> </p>
 
